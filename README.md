@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"><sub>* Corresponding author</sub></p>
-
+<h3 align="center">Code is comming soon</h3>
 ## Introduction
 
 **LAMP** is a multi-modal object re-identification framework for RGB, near-infrared, and thermal-infrared imagery. It treats language as an explicit control signal that provides stable semantic priors for sample-adaptive modality fusion. To preserve identity-level relations across heterogeneous modalities, LAMP further formulates prototype alignment as a Fused Gromov–Wasserstein problem that jointly considers feature correspondence and relational geometry.
