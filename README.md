@@ -170,6 +170,7 @@ If you find this work useful, please consider citing it.
 @misc{li2026lamp,
   title={LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification},
   author={Li, Shuying and Su, Chao and Li, Yongxiang and Hu, Peng and Peng, Dezhong and Sun, Yuan},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2026}
 }
 ```
