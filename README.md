@@ -1,10 +1,10 @@
 <h1 align="center">LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification</h1>
 
-<p align="center">
+<!-- <p align="center">
   <strong>Shuying Li · Chao Su · Yongxiang Li · Peng Hu · Dezhong Peng · Yuan Sun*</strong>
-</p>
+</p> -->
 
-<p align="center">Sichuan University · Southwest Jiaotong University</p>
+<!-- <p align="center">Sichuan University · Southwest Jiaotong University</p> -->
 
 <p align="center">
   <a href="https://github.com/lsyck123n/LAMP">Project Repository</a>
